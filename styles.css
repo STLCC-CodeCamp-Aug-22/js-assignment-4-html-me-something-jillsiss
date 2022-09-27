@@ -1,1 +1,25 @@
-/* Write your CSS here! */
+img {
+    max-width: auto;
+    max-height: 250px;
+}
+
+h2 {
+    padding-left: 1px;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+.caption {
+    font-style: italic;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
